@@ -1,0 +1,15 @@
+:root {
+    /* colours */
+    --gabecode-color-white-bg: #F0F2F5;
+    --gabecode-color-white: #FAFAFA;
+    --gabecode-color-black: #010C15;
+    --gabecolor-color-blue-bg: #011627;
+    --gabecode-color-primary: #4D5BCE;
+    --gabecode-color-primary-alt: #B16CEA;
+    --gabecode-color-success: #43D9AD;
+    --gabecode-color-success-alt: #43D9AD;
+    --gabecode-color-warning: #FFA84B;
+    --gabecode-color-warning-alt: #FF8A56;
+    --gabecode-color-danger: #FF3C49;
+    --gabecode-color-danger-alt: #FF5E69;
+}
